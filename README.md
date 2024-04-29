@@ -1,4 +1,4 @@
-# WK2-Code-Challenge
+# Bank of Flatiron
 
 #### Date 27th April, 2024
 
