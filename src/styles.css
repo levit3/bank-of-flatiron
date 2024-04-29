@@ -39,7 +39,7 @@ button {
   border-collapse: collapse;
   display: inline-block;
   position: relative;
-  width: 10%;
+  width: auto;
   font-size: medium;
   font-weight: 700;
   margin-bottom: 7px;
