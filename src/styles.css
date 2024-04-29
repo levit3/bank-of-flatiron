@@ -1,0 +1,67 @@
+input {
+  border: 2px solid #ccc;
+  padding: 12px;
+  border-collapse: collapse;
+  display: inline-block;
+  margin: 10px;
+  width: 20%;
+  text-align: center;
+  margin-top: 20px;
+  border-radius: 9px;
+}
+#form {
+  border: 2px solid #ccc;
+  border-radius: 9px;
+  margin: auto;
+  text-align: center;
+  width: 95%;
+  box-shadow: 3px 3px 15px #ccc;
+}
+
+#search {
+  border: 2px solid white;
+  height: 25px;
+  transition: ease-in-out 2s;
+  text-align: left;
+  width: 12%;
+  border-radius: 9px;
+  border-bottom: #4800aa solid 2px;
+  font-size: 15px;
+}
+
+#search:focus {
+  border: 2px solid #4800aa;
+  width: 30%;
+}
+button {
+  border: 2px solid #ccc;
+  padding: 7px;
+  border-collapse: collapse;
+  display: inline-block;
+  position: relative;
+  width: 10%;
+  font-size: medium;
+  font-weight: 700;
+  margin-bottom: 7px;
+  border-radius: 9px;
+}
+
+th,
+td,
+tr {
+  border: 2px solid #ccc;
+  padding: 10px;
+  text-align: center;
+  margin: auto;
+  border-radius: 9px;
+}
+
+table {
+  width: 95%;
+  text-align: center;
+  margin: auto;
+  margin-top: 15px;
+  border-collapse: collapse;
+  border-radius: 9px;
+  box-shadow: 3px 3px 15px #ccc;
+}
